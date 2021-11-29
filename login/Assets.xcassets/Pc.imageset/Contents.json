@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "importancia-logo-imagen-andalucialab-1024x546.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
